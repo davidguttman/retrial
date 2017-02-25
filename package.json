@@ -1,7 +1,7 @@
 {
   "name": "retrial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Easily retry an async function without mangling it.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -12,5 +12,16 @@
   "devDependencies": {
     "standard": "^8.6.0",
     "tape": "^4.6.3"
-  }
+  },
+  "dependencies": {
+    "tape": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidguttman/retrial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidguttman/retrial/issues"
+  },
+  "homepage": "https://github.com/davidguttman/retrial#readme"
 }
