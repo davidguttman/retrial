@@ -1,6 +1,6 @@
 {
   "name": "retrial",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easily retry an async function without mangling it.",
   "main": "index.js",
   "scripts": {
